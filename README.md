@@ -1,6 +1,10 @@
 ### PassXYZ and .NET MAUI Book
 PassXYZ is a cross platform version of password manager app compatible with KeePass database format. It was developed using Xamarin.Forms in the first edition. Recently, I rewrote it using .NET MAUI and shared my experience in my book [.NET MAUI Cross-Platform Application Development][1].
 
+- `PassXYZ.Vault` - This is the first version using Xamarin.Forms
+- `PassXYZ.Vault2` - This is the version using .NET MAUI
+- `KPCLib` - This is a .NET Standard 2.0 port of KeePassLib
+
 <!--
 **passxyz/passxyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
